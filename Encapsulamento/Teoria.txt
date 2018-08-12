@@ -1,0 +1,17 @@
+Vantagens:
+-----------------------------------------------------------
+Clareza no código
+Minimização de erros
+Facilidde de extensão
+Mas a Facilidde de Manutenção
+Por que á classe e conhecida apenas pela interface
+-----------------------------------------------------------
+
+
+[private/public] é um claslificador;
+construtor (Palavra chave): Inicializar.
+encapsulamento (Palavra chave): Proteger.
+
+Todos as classes aqui estão devidamente encapsuladas.
+
+
